@@ -27,12 +27,11 @@ class Particle(Robot):
         self.color = color
 
     def predict(self):
-        # START STUDENT CODE
         self.move()
 
         # Move the particle the same distance as the robot moves.
 
-        # END STUDENT CODE
+       
 
     def update_belief(self, robot_pole_detected):
         # START STUDENT CODE
