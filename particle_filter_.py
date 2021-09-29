@@ -1,4 +1,4 @@
-from Plot import plot_simple
+from sim_plot import plot_simple
 import random as r
 
 
